@@ -8,6 +8,12 @@ public class torneioDeNatacao {
         System.out.println("Escreva o seu nome: ");
         int idade = input.nextInt();
 
+        String nome2 = null;
+        nome = "";
+        if(nome2 == null || nome2 == ""){
+
+        }
+
         if (idade <= 10) {
             System.out.println(nome + " Participará da categoria Infantil");
         } else if (idade >= 11 && idade <= 15) {
