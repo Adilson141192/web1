@@ -1,4 +1,5 @@
-import javax.sound.midi.Soundbank;
+package academy.devdojo.variaveis;
+
 import java.util.Scanner;
 
 public class recebendoDadosDoTeclado {

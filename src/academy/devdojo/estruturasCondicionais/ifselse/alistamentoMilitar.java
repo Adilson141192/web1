@@ -1,3 +1,5 @@
+package academy.devdojo.estruturasCondicionais.ifselse;
+
 public class alistamentoMilitar {
     public static void main(String[] args) {
         char sexo = 'F';

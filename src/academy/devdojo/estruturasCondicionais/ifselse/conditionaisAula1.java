@@ -1,3 +1,5 @@
+package academy.devdojo.estruturasCondicionais.ifselse;
+
 public class conditionaisAula1 {
     public static void main(String[] args) {
         boolean condicao = true;

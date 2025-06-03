@@ -1,3 +1,5 @@
+package academy.devdojo.estruturasCondicionais.ifselse;
+
 public class impostoDeRenda {
     public static void main(String[] args) {
         double salario = 5350;

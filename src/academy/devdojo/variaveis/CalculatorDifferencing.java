@@ -1,3 +1,5 @@
+package academy.devdojo.variaveis;
+
 public class CalculatorDifferencing {
     public static void main(String[] args) {
         int firstAge = 30;

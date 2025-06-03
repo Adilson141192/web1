@@ -1,3 +1,5 @@
+package academy.devdojo.estruturasCondicionais.ifselse;
+
 public class verificaIdade {
     public static void main(String[] args) {
         int idade = 18;

@@ -1,3 +1,5 @@
+package academy.devdojo.estruturasCondicionais.ifselse;
+
 public class diasDaSemana {
     public static void main(String[] args) {
         int dia = 8;

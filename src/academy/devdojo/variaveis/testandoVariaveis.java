@@ -1,3 +1,5 @@
+package academy.devdojo.variaveis;
+
 public class testandoVariaveis {
     public static void main(String[] args) {
         char masculino = 'A';

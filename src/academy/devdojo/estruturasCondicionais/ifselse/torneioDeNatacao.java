@@ -1,3 +1,5 @@
+package academy.devdojo.estruturasCondicionais.ifselse;
+
 import java.util.Scanner;
 
 public class torneioDeNatacao {

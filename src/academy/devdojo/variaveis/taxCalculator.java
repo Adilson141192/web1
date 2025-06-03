@@ -1,3 +1,5 @@
+package academy.devdojo.variaveis;
+
 public class taxCalculator {
     public static void main(String[] args) {
         float salario = 2500.00F;
