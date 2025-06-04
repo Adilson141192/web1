@@ -1,4 +1,4 @@
-package academy.devdojo.lacosDeRepeticao;
+package academy.devdojo.lacosDeRepeticao.whiles;
 
 public class aula01Introducao {
     public static void main(String[] args) {
